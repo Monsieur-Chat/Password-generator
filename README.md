@@ -10,8 +10,10 @@
 <img src="https://i.ibb.co/JrfYKYx/Screenshot-20200819-224101.png"
 </p>
 <p>
-     <h2>Exemple :</h2>
-      A : 8NMcb$
-      B : GNGLFU
-      C : 605480
+ <h2>Exemple :</h2>
+ <ul>
+  <li>A : 8NMcb$</li>
+  <li>B : GNGLFU</li>
+  <li>C : 605480</li>
+</ul> 
 </p>
