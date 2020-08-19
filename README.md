@@ -7,9 +7,8 @@
 <img src="https://img.shields.io/badge/Language-Python%203.8.5-blue">
 
 </p>
-
 <img src="https://i.ibb.co/JrfYKYx/Screenshot-20200819-224101.png"
-
+</p>
 <p>
      <h2>Exemple :</h2>
       A : 8NMcb$
