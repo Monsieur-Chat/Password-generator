@@ -43,5 +43,5 @@ print('C : only number')
 print(termcolor.colored('=================================================================','red'))
 choice_option = input("Choose option :")
 choice_length = int(input("Choose password length :"))
-choice_option.upper
+choice_option = choice_option.upper()
 print(pass_gen(choice_option , choice_length))
