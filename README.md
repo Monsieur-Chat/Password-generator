@@ -8,9 +8,10 @@
 
 </p>
 
+<img src="https://i.ibb.co/JrfYKYx/Screenshot-20200819-224101.png" alt="Screenshot-20200819-224101"
+
 <p>
-   <img src="https://i.ibb.co/JrfYKYx/Screenshot-20200819-224101.png" alt="Screenshot-20200819-224101"
-        <h2>Exemple :</h2>
+     <h2>Exemple :</h2>
       A : 8NMcb$
       B : GNGLFU
       C : 605480
