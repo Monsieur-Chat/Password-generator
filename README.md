@@ -8,7 +8,7 @@
 
 </p>
 
-<img src="https://i.ibb.co/JrfYKYx/Screenshot-20200819-224101.png" alt="Screenshot-20200819-224101"
+<img src="https://i.ibb.co/JrfYKYx/Screenshot-20200819-224101.png"
 
 <p>
      <h2>Exemple :</h2>
